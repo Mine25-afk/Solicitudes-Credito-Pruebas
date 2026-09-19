@@ -1,6 +1,5 @@
 # AkiCash — Solicitudes de crédito
-
-Prueba técnica con una API en NestJS, acceso a MySQL mediante Knex Query Builder y una aplicación React con Vite. Permite consultar solicitudes, filtrarlas, paginar resultados y crear solicitudes de crédito. Cuando una solicitud se crea como aprobada, se genera su plan de cuotas dentro de la misma transacción.
+API en NestJS, acceso a MySQL mediante Knex Query Builder y una aplicación React con Vite. Permite consultar solicitudes, filtrarlas, paginar resultados y crear solicitudes de crédito. Cuando una solicitud se crea como aprobada, se genera su plan de cuotas dentro de la misma transacción.
 
 ## Tecnologías y versiones
 
